@@ -1,4 +1,3 @@
-import React from "react";
 import { AiFillProject } from "react-icons/ai";
 import { BsFillArrowDownCircleFill } from "react-icons/bs";
 import { MdVerified } from "react-icons/md";
@@ -47,7 +46,7 @@ const About = () => {
           </p>
           <a
             href={myResume}
-            download="Vivek's Resume"
+            download="AshishK Resume"
             className="px-8 py-2 mt-5 flex justify-center items-center gap-2 w-60 bg-[#232d38] hover:bg-white hover:text-black border border-gray-700 rounded-full"
           >
             Download Resume <BsFillArrowDownCircleFill />
